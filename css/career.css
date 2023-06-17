@@ -1,0 +1,163 @@
+
+.weblogo {
+    width: 47px;
+    
+}
+ .navbar-nav li{
+    padding: 0 10px;
+ }
+ .navbar-nav li a{
+    color: #fff!important;
+    font-weight: 600px;
+    font-size: 20px;
+ }
+ .border-box{
+    border-style: solid;
+    border-width: thin;
+    border-color: #fbab29
+ }
+ .navbar{
+   background: #00000091;
+ }
+ .banner{
+    background: url(https://www.firstfiddle.in/assets/images/new-careers-1.jpg);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.pyb-20{
+    padding-top: 252px;
+    padding-bottom: 252px;
+}
+
+.brand{
+    font-family: 'prague';
+    font-size: 80px;
+    color: white;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.ml-1{
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+.banner-content{
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 25px;
+}
+p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 16px;
+
+}
+.careers-style{
+    padding: 2%;
+    padding-right: 85px;
+    padding-left: 85px;
+
+}
+.car_step{
+    padding-right: 65px;
+}
+.card{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0.25rem;
+}
+.card-body{
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1.25rem;
+}
+.card-title{
+    margin-bottom: 0.75rem;
+}
+.form-group{
+    margin-bottom: 1rem;
+}
+.form-control {
+    display: block;
+    width: 100%;
+    height: calc(1.5em + 0.75rem + 2px);
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.btn{
+    color: #ffffff;
+    padding: 10px 20px;
+    font-weight: bolder;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    background-color: #fbac29;
+}
+.mainfooter
+{
+   background: #020306f0;
+   padding: 50px;
+   color: #fff;
+}
+.img2{
+   width: 50%;
+   margin-top: 30px;
+}
+.contact{
+   font-family: 'prague';
+   font-size: 2 rem;
+   line-height: 50px;
+   letter-spacing: 3px;
+   color: #fff;
+ }
+ .p3{
+   font-size: 16px;
+   line-height: 28px;
+   letter-spacing: 1px;
+   text-align: justify;
+ }
+ .foot-add{
+   padding: 15px;
+ }
+ .mainfooter strong{
+   color: #fcb21b;
+ }
+ .mainfooter a{
+   color: #fcb21b;
+ }
+ .mainfooter a{
+   text-decoration: none;
+ }
+ .social-icon{
+   font-size: 20px;
+ }
+ .end{
+   background-color: #000;
+     padding-top: 30px;
+     padding-bottom: 30px
+ }
+ .copyright-text{
+     font-size: 13px;
+     color: white;
+     margin-top: 0px;
+     margin-bottom: 0rem;
+ }
+   

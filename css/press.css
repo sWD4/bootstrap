@@ -1,0 +1,80 @@
+/*nav bar css*/
+.weblogo{
+    width:65px ;
+  }
+  .navbar-nav li
+  {
+  padding: 0 10px;
+  }
+  .navbar-nav li a
+ {
+   color: #fff!important;
+   font-weight: 600;
+   font-size: 20px;
+  }
+  .navbar{
+    background: #00000091;
+  }
+  .border-box{
+    border-style: solid;
+    border-width: thin;
+    border-color: #fbab29
+ }
+ /*end*/
+ .banner{
+   background: url(https://www.firstfiddle.in/assets/images/press-new-1.jpg);
+   width: 100%;
+   background-position: center;
+   background-size: cover;
+}
+
+.pyb-20{
+   padding-top: 252px;
+   padding-bottom: 252px;
+}
+
+.brand{
+   font-family: 'prague';
+   font-size: 80px;
+   color: white;
+}
+ .row{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+ }
+ .nav{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+ }
+
+ .pr-iocn{
+    width: 24px;
+    margin-right: 0.5rem;
+    margin-top: -0.35rem;
+ }
+ .img-fluid {
+    max-width: 100%;
+    height: auto;
+ }
+ .row {
+   display: flex;
+   flex-wrap: wrap;
+   margin-right: -15px;
+   margin-left: -15px;
+ }
+ .gallery-grid{
+   width: 100%;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+   
+ }
+ .pr-images{
+   padding: 20px;
+ }
+

@@ -1,0 +1,163 @@
+
+.a{
+	text-align: center;
+	padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+.b{
+	  line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    text-align: justify;
+}
+.why{
+    background-image: url(https://www.firstfiddle.in/assets/images/bannerabout.jpg);
+    width:100% ;
+    height: 425px;
+    background-position: center;
+    background-size: cover;
+    margin-top: 30px;
+
+}
+.h2{
+  text-align: center;
+  padding-top: 0px;
+  text-transform: uppercase;
+  font-family: 'prague';
+  letter-spacing: 3px;
+  color: white;
+  margin-top: 32px;
+}
+.p1{
+  line-height: 36px;
+  letter-spacing: 1px;
+  color: white;
+  text-align: center;
+}
+.head{
+  padding-top: 20px;
+  text-transform: uppercase;
+  font-family: 'prague';
+  letter-spacing: 3px;
+  text-align: center;
+}
+.why2{
+    background-image: url(https://www.firstfiddle.in/assets/images/outletbanner.png);
+    width:100% ;
+    height: 425px;
+    background-position: center;
+    background-size: cover;
+    margin-top: 30px;
+
+}
+.experience{
+  text-align: center;
+  padding-top: 20px;
+  text-transform: uppercase;
+  font-family: 'prague';
+  letter-spacing: 3px;
+  color: white;
+  margin-top: 44px
+}
+.p2{
+  line-height: 26px;
+  letter-spacing: 1px;
+  color: white;
+  text-align: center;
+}
+.large{
+  width: 100%;
+}
+.mainfooter{
+    background: #020306f0;
+    padding: 50px;
+    color: #fff;
+}
+.img2{
+   width: 50%;
+   margin-top: 30px;
+}
+.contact{
+  font-family: 'prague';
+  font-size: 2 rem;
+  line-height: 50px;
+  letter-spacing: 3px;
+  color: #fff;
+}
+.p3{
+  font-size: 16px;
+  line-height: 28px;
+  letter-spacing: 1px;
+  text-align: justify;
+}
+.foot-add{
+  padding: 15px;
+}
+.mainfooter strong{
+  color: #fcb21b;
+}
+.mainfooter a{
+  color: #fcb21b;
+}
+.mainfooter a{
+  text-decoration: none;
+}
+.social-icon{
+  font-size: 20px;
+}
+.end{
+  background-color: #000;
+    padding-top: 30px;
+    padding-bottom: 30px
+}
+.copyright-text{
+    font-size: 13px;
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 0rem;
+}
+.p{
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 1px;
+}
+.more{
+  margin-top: 0px;
+}
+.weblogo {
+  width: 47px;
+}
+.navbar-nav li{
+  padding: 0 10px;
+}
+.navbar-nav li a{
+  color: #fff!important;
+  font-weight: 600px;
+  font-size: 20px;
+}
+.border-box{
+  border-style: solid;
+  border-width: thin;
+  border-color: #fbab29
+}
+.navbar{
+  background: #00000091;
+}
+
+@media(max-width: 768px){
+ .img{
+	width: 100%;
+  }
+  .mt-5{
+  	margin-top: 28px!important;
+    margin-bottom: 12px;
+  }
+  .a{
+  	letter-spacing: 6px;
+    font-weight: bold;
+  }
+  
+}

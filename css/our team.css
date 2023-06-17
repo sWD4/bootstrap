@@ -1,0 +1,150 @@
+
+/*nav css*/
+.weblogo {
+    width: 47px;
+}
+ .navbar-nav li{
+    padding: 0 10px;
+ }
+ .navbar-nav li a{
+    color: #fff!important;
+    font-weight: 600px;
+    font-size: 20px;
+ }
+ .border-box{
+    border-style: solid;
+    border-width: thin;
+    border-color: #fbab29
+ }
+ .navbar{
+   background: #00000091;
+ }
+ /*nav css end*/
+ 
+ .banner{
+  background: url(https://www.firstfiddle.in/assets/images/new-our-team.jpg);
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+}
+
+.pyb-20{
+  padding-top: 252px;
+  padding-bottom: 252px;
+}
+
+.brand{
+  font-family: 'prague';
+  font-size: 80px;
+  color: white;
+}
+.meet-the-team{
+  margin: 0px !important;
+}
+.row{
+  padding-right: 40px;
+  padding-left: 40px;
+  padding-top: 40px;
+}
+.priyank{
+  margin-left: 15px;
+}
+
+.meet-the-team2{
+  padding-top: 2%;
+  padding-left: 3%;
+}
+.btn{
+  color: #ffffff;
+    padding: 10px 20px;
+    font-weight: bolder;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    background-color: #fbac29
+}
+.fa-2x{
+  font-size: 2em;
+}
+.mainfooters a{
+  color: #fcb21b;
+}
+.box16{
+  text-align: center;
+  color: #fff;
+  position: relative;
+  margin-top: 20px;
+}
+.box16 img{
+    width: 100%;
+    height: auto;
+}
+.box-content{
+   padding: 20px;
+    margin-bottom: 20px;
+    bottom: 0;
+    z-index: 1;
+    width: 100%;
+    position: absolute;
+    left: 0;
+}
+.title{
+  font-size: 22px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 0 0 10px;
+}
+.post{
+  display: block;
+  padding: 3px 0;
+  font-size: 15px;
+ 
+}
+.mainfooter{
+  background: #020306f0;
+  padding: 50px;
+  color: #fff;
+}
+.img2{
+ width: 50%;
+ margin-top: 30px;
+}
+.contact{
+font-family: 'prague';
+font-size: 2 rem;
+line-height: 50px;
+letter-spacing: 3px;
+color: #fff;
+}
+.p3{
+font-size: 16px;
+line-height: 28px;
+letter-spacing: 1px;
+text-align: justify;
+}
+.foot-add{
+padding: 15px;
+}
+.mainfooter strong{
+color: #fcb21b;
+}
+.mainfooter a{
+color: #fcb21b;
+}
+.mainfooter a{
+text-decoration: none;
+}
+.social-icon{
+font-size: 20px;
+}
+.end{
+background-color: #000;
+  padding-top: 30px;
+  padding-bottom: 30px
+}
+.copyright-text{
+  font-size: 13px;
+  color: white;
+  margin-top: 0px;
+  margin-bottom: 0rem;
+}
+
+ 
